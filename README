@@ -9,10 +9,10 @@
  Description: Two-way communication with RSA encryption using 2 Arduinos
  			  one acts as server the other acts as client.
 
- Function references form eclass: 
- 									-wait_on_serial3() 
- 									-uint32_to_serial3()
- 									-uint32_from_serial3() 
+ Function references from eclass: 
+	-wait_on_serial3() 
+	-uint32_to_serial3()
+	-uint32_from_serial3() 
 
 --------------------------------------------------------------------------
 

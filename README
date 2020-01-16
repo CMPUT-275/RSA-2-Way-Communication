@@ -1,18 +1,11 @@
 --------------------------------------------------------------------------
  CMPUT 274 | Fall 2019
  Names: Justin Javier, Darius Fang
- CCIDs: jjavier, dfang1
- IDs: 1573754, 1570975
 
  Major Assigment #2 : Part 2
 
  Description: Two-way communication with RSA encryption using 2 Arduinos
  			  one acts as server the other acts as client.
-
- Function references from eclass: 
-	-wait_on_serial3() 
-	-uint32_to_serial3()
-	-uint32_from_serial3() 
 
 --------------------------------------------------------------------------
 
